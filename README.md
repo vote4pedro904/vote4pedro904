@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm currently learning the basics of Github. I believe Github has what I need to learn the about a full stack, whatever that is.
 
 <!--
 **vote4pedro904/vote4pedro904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
